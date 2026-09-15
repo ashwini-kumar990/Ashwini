@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is the attendance requirement?",
+        "answer": "Students should maintain the minimum attendance required by the college regulations. Please check the latest department notice for the exact percentage."
+    },
+    {
+        "question": "What is the exam procedure?",
+        "answer": "Students should carry their ID card and follow the examination hall instructions. The detailed timetable and rules are provided by the college."
+    },
+    {
+        "question": "Where can I find the syllabus?",
+        "answer": "The current syllabus can be obtained from the department or official college academic resources."
+    },
+    {
+        "question": "How can I apply for leave?",
+        "answer": "Submit a leave request through the procedure followed by your department and inform the class advisor."
+    },
+    {
+        "question": "What are the library rules?",
+        "answer": "Carry your college ID card, maintain silence, return books on time, and follow the library borrowing rules."
+    },
+    {
+        "question": "Who should I contact for department queries?",
+        "answer": "For department-related questions, contact your class advisor or the concerned department office."
+    }
+]
